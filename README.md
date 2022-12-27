@@ -24,18 +24,23 @@ I love to solve real world problems using code.
 
 - 📥 My socials
 
+<br>
+<br>
+<p align=center>
 <a href="https://www.linkedin.com/in/parth-namdev-4584331a2/">
-  <img style="margin-right:20px" alt="Parth Namdev | LinkedIn" width="20px" src="./assets/linkedin.svg" />
+  <img style="margin-right:20px" alt="Parth Namdev | LinkedIn" width="40px" src="./assets/linkedin.svg" />
 </a>
 &nbsp;
 <a href="https://twitter.com/_parthnamdev_">
-  <img align="" alt="Parth Namdev | Twitter" width="21px" src="./assets/twitter.svg" />
+  <img align="" alt="Parth Namdev | Twitter" width="40px" src="./assets/twitter.svg" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/_parthnamdev_/">
-  <img align="" alt="Parth Namdev | Instagram" width="20px" src="./assets/instagram.svg" />
+  <img align="" alt="Parth Namdev | Instagram" width="40px" src="./assets/instagram.svg" />
 </a>
+</p>
 
+<br>
 <br>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -60,12 +65,65 @@ I love to solve real world problems using code.
 
 <br>
 <br>
-<h2 align="center">🧰 Tools 🧰</h2>
+<h2 align="center">🧰  Tools  🧰</h2>
+
 <br>
 
-<img  src="./assets/javascript.svg" alt="JavaScript" width="50" height="50"/> 
+<p align=center>
+<img src="./assets/flutter-original.svg" alt="flutter" width="50" height="50"/> 
 &nbsp;
+<img src="./assets/dart-original.svg" alt="dart" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/nodejs-original.svg" alt="nodejs" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/mongodb-original.svg" alt="mongodb" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/python-original.svg" alt="python" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/vscode-original.svg" alt="vscode" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/figma-original.svg" alt="figma" width="50" height="50"/> 
+&nbsp;
+</p>
 
+<br>
+
+<p align=center>
+<img src="./assets/anaconda-original.svg" alt="anaconda" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/canva-original.svg" alt="canva" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/css3-original.svg" alt="css3" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/django-plain.svg" alt="django" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/docker-plain.svg" alt="docker" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/express-original.svg" alt="express" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/firebase-plain.svg" alt="firebase" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/github-original.svg" alt="github" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/html5-original.svg" alt="html5" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/illustrator-plain.svg" alt="illustrator" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/jquery-original.svg" alt="jquery" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/jupyter-original.svg" alt="jupyter" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/react-original.svg" alt="react" width="50" height="50"/> 
+&nbsp;
+<img src="./assets/slack-original.svg" alt="slack" width="50" height="50"/> 
+&nbsp;
+</p>
 <!---
 parthnamdev/parthnamdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -43,6 +43,7 @@ I love to solve real world problems using code.
 <br>
 <br>
 <br>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -68,6 +69,7 @@ I love to solve real world problems using code.
 <h2 align="center">🧰  Tools  🧰</h2>
 
 <br>
+<br>
 
 <p align=center>
 <img src="./assets/flutter-original.svg" alt="flutter" width="50" height="50"/> 
@@ -88,6 +90,8 @@ I love to solve real world problems using code.
 &nbsp;
 </p>
 
+<br>
+<br>
 <br>
 
 <p align=center>
@@ -120,8 +124,6 @@ I love to solve real world problems using code.
 <img src="./assets/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
 &nbsp;
 <img src="./assets/react-original.svg" alt="react" width="50" height="50"/> 
-&nbsp;
-<img src="./assets/slack-original.svg" alt="slack" width="50" height="50"/> 
 &nbsp;
 </p>
 <!---

@@ -1,10 +1,8 @@
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Parth Namdev." src="./assets/hello_parth.png" /></a></p>
-
-<br />
+<p align="center"><a href=""><img width="50%" alt="Hello, I'm Parth Namdev." src="./assets/hello_parth.png" /></a></p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;What's+up..?;Majama..?🙋‍♂️;Good+to+see+you!💙&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;What's+up..?;Majama..?🙋‍♂️;Good+to+see+you!💙&center=true&size=25">
   </a>
 </h1>
 

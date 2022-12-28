@@ -67,7 +67,6 @@ I love to solve real world problems using code.
 <br>
 <br>
 <h2 align="center">🧰  Tools  🧰</h2>
-
 <br>
 <br>
 
